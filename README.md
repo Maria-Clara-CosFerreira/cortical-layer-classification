@@ -12,7 +12,7 @@ Maria Clara Costa Ferreira
 
 ## Descrição do projeto
 
-Este projeto consiste na aplicação do algoritmo de aprendizado de máquina *K-Nearest Neighbors (KNN)* para a classificação de neurônios de acordo com sua estrutura cerebral, utilizando dados experimentais disponibilizados pelo *Allen Institute* no dataset Cell Types Specimen.
+Este projeto consiste na aplicação do algoritmo *K-Nearest Neighbors (KNN)* para a classificação de neurônios de acordo com sua região cortical, utilizando dados experimentais disponibilizados pelo *Allen Institute* no dataset Cell Types Specimen.
 
 O modelo utiliza principalmente características eletrofisiológicas dos neurônios, além da espécie do organismo, para tentar prever a estrutura cerebral à qual cada célula pertence. O alvo da classificação é o atributo structure__acronym, que identifica a região cerebral e, quando aplicável, a camada cortical correspondente.
 
