@@ -2,7 +2,7 @@
 
 # Classificação de Regiões Cerebrais com KNN
 
-## Projeto Final da Disciplina de Prática em Ciência de Dados
+## Projeto da Disciplina de Aprendizado de Máquina
 
 Instituição de ensino vinculada à desenvolvedora do projeto: Ilum Escola de Ciência - CNPEM (Centro Nacional de Pesquisa em Energia e Materiais)
 
