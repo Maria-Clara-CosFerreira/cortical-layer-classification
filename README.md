@@ -18,7 +18,7 @@ O modelo utiliza principalmente características eletrofisiológicas dos neurôn
 
 Para avaliar e otimizar o modelo, foram testadas diferentes combinações de hiperparâmetros do KNN utilizando *validação cruzada* e *GridSearchCV*. Também foi analisado o efeito da normalização dos atributos numéricos sobre o desempenho do algoritmo.
 
-Além da avaliação por métricas de classificação e matriz de confusão, as previsões do modelo foram utilizadas em umavisualização tridimensional do cérebro com a biblioteca Brainrender. Dessa forma, é possível comparar a localização real dos neurônios com a localização prevista pelo modelo.
+Além da avaliação por métricas de classificação e matriz de confusão, as previsões do modelo foram utilizadas em uma visualização tridimensional do cérebro com a biblioteca Brainrender. Dessa forma, é possível comparar a localização real dos neurônios com a localização prevista pelo modelo.
 
 ## Organização do repositório
 
