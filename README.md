@@ -1,4 +1,5 @@
 <img width="2535" height="380" alt="image" src="https://github.com/user-attachments/assets/812330bb-3fba-4591-8ce5-75e266dd1a03" />
+
 # Classificação de Regiões Cerebrais com KNN
 
 ## Projeto Final da Disciplina de Prática em Ciência de Dados
