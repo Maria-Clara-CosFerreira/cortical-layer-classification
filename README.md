@@ -50,7 +50,7 @@ As classes utilizadas no projeto correspondem a diferentes estruturas cerebrais 
 
 ## Como executar
 
-1. Abra o notebook criatura_lendaria1.ipynb.
+1. Abra o notebook criatura_lendaria1.ipynb, dentro da pasta "versões".
 2. Execute as células na ordem em que aparecem.
 3. Certifique-se de que o dataset utilizado pelo projeto esteja disponível no ambiente de execução.
 4. Execute as etapas de preparação dos dados e treinamento do modelo.
